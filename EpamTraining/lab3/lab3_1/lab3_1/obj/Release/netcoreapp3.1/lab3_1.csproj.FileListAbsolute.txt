@@ -1,0 +1,13 @@
+C:\Lessons\lab3\lab3_1\lab3_1\bin\Release\netcoreapp3.1\lab3_1.exe
+C:\Lessons\lab3\lab3_1\lab3_1\bin\Release\netcoreapp3.1\lab3_1.deps.json
+C:\Lessons\lab3\lab3_1\lab3_1\bin\Release\netcoreapp3.1\lab3_1.runtimeconfig.json
+C:\Lessons\lab3\lab3_1\lab3_1\bin\Release\netcoreapp3.1\lab3_1.runtimeconfig.dev.json
+C:\Lessons\lab3\lab3_1\lab3_1\bin\Release\netcoreapp3.1\lab3_1.dll
+C:\Lessons\lab3\lab3_1\lab3_1\bin\Release\netcoreapp3.1\lab3_1.pdb
+C:\Lessons\lab3\lab3_1\lab3_1\obj\Release\netcoreapp3.1\lab3_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lessons\lab3\lab3_1\lab3_1\obj\Release\netcoreapp3.1\lab3_1.AssemblyInfoInputs.cache
+C:\Lessons\lab3\lab3_1\lab3_1\obj\Release\netcoreapp3.1\lab3_1.AssemblyInfo.cs
+C:\Lessons\lab3\lab3_1\lab3_1\obj\Release\netcoreapp3.1\lab3_1.csproj.CoreCompileInputs.cache
+C:\Lessons\lab3\lab3_1\lab3_1\obj\Release\netcoreapp3.1\lab3_1.dll
+C:\Lessons\lab3\lab3_1\lab3_1\obj\Release\netcoreapp3.1\lab3_1.pdb
+C:\Lessons\lab3\lab3_1\lab3_1\obj\Release\netcoreapp3.1\lab3_1.genruntimeconfig.cache
