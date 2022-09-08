@@ -1,0 +1,16 @@
+C:\Lessons\lab11\lab11\bin\Debug\net5.0\lab11.exe
+C:\Lessons\lab11\lab11\bin\Debug\net5.0\lab11.deps.json
+C:\Lessons\lab11\lab11\bin\Debug\net5.0\lab11.runtimeconfig.json
+C:\Lessons\lab11\lab11\bin\Debug\net5.0\lab11.runtimeconfig.dev.json
+C:\Lessons\lab11\lab11\bin\Debug\net5.0\lab11.dll
+C:\Lessons\lab11\lab11\bin\Debug\net5.0\ref\lab11.dll
+C:\Lessons\lab11\lab11\bin\Debug\net5.0\lab11.pdb
+C:\Lessons\lab11\lab11\obj\Debug\net5.0\lab11.csproj.AssemblyReference.cache
+C:\Lessons\lab11\lab11\obj\Debug\net5.0\lab11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lessons\lab11\lab11\obj\Debug\net5.0\lab11.AssemblyInfoInputs.cache
+C:\Lessons\lab11\lab11\obj\Debug\net5.0\lab11.AssemblyInfo.cs
+C:\Lessons\lab11\lab11\obj\Debug\net5.0\lab11.csproj.CoreCompileInputs.cache
+C:\Lessons\lab11\lab11\obj\Debug\net5.0\lab11.dll
+C:\Lessons\lab11\lab11\obj\Debug\net5.0\ref\lab11.dll
+C:\Lessons\lab11\lab11\obj\Debug\net5.0\lab11.pdb
+C:\Lessons\lab11\lab11\obj\Debug\net5.0\lab11.genruntimeconfig.cache
