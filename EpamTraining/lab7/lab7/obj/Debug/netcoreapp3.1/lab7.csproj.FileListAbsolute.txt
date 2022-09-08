@@ -1,0 +1,14 @@
+C:\Lessons\lab7\lab7\bin\Debug\netcoreapp3.1\lab7.exe
+C:\Lessons\lab7\lab7\bin\Debug\netcoreapp3.1\lab7.deps.json
+C:\Lessons\lab7\lab7\bin\Debug\netcoreapp3.1\lab7.runtimeconfig.json
+C:\Lessons\lab7\lab7\bin\Debug\netcoreapp3.1\lab7.runtimeconfig.dev.json
+C:\Lessons\lab7\lab7\bin\Debug\netcoreapp3.1\lab7.dll
+C:\Lessons\lab7\lab7\bin\Debug\netcoreapp3.1\lab7.pdb
+C:\Lessons\lab7\lab7\obj\Debug\netcoreapp3.1\lab7.csproj.AssemblyReference.cache
+C:\Lessons\lab7\lab7\obj\Debug\netcoreapp3.1\lab7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lessons\lab7\lab7\obj\Debug\netcoreapp3.1\lab7.AssemblyInfoInputs.cache
+C:\Lessons\lab7\lab7\obj\Debug\netcoreapp3.1\lab7.AssemblyInfo.cs
+C:\Lessons\lab7\lab7\obj\Debug\netcoreapp3.1\lab7.csproj.CoreCompileInputs.cache
+C:\Lessons\lab7\lab7\obj\Debug\netcoreapp3.1\lab7.dll
+C:\Lessons\lab7\lab7\obj\Debug\netcoreapp3.1\lab7.pdb
+C:\Lessons\lab7\lab7\obj\Debug\netcoreapp3.1\lab7.genruntimeconfig.cache
