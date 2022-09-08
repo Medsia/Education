@@ -1,0 +1,14 @@
+C:\Lessons\lab8\lab8\bin\Debug\netcoreapp3.1\lab8.exe
+C:\Lessons\lab8\lab8\bin\Debug\netcoreapp3.1\lab8.deps.json
+C:\Lessons\lab8\lab8\bin\Debug\netcoreapp3.1\lab8.runtimeconfig.json
+C:\Lessons\lab8\lab8\bin\Debug\netcoreapp3.1\lab8.runtimeconfig.dev.json
+C:\Lessons\lab8\lab8\bin\Debug\netcoreapp3.1\lab8.dll
+C:\Lessons\lab8\lab8\bin\Debug\netcoreapp3.1\lab8.pdb
+C:\Lessons\lab8\lab8\obj\Debug\netcoreapp3.1\lab8.csproj.AssemblyReference.cache
+C:\Lessons\lab8\lab8\obj\Debug\netcoreapp3.1\lab8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lessons\lab8\lab8\obj\Debug\netcoreapp3.1\lab8.AssemblyInfoInputs.cache
+C:\Lessons\lab8\lab8\obj\Debug\netcoreapp3.1\lab8.AssemblyInfo.cs
+C:\Lessons\lab8\lab8\obj\Debug\netcoreapp3.1\lab8.csproj.CoreCompileInputs.cache
+C:\Lessons\lab8\lab8\obj\Debug\netcoreapp3.1\lab8.dll
+C:\Lessons\lab8\lab8\obj\Debug\netcoreapp3.1\lab8.pdb
+C:\Lessons\lab8\lab8\obj\Debug\netcoreapp3.1\lab8.genruntimeconfig.cache
