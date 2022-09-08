@@ -1,0 +1,10 @@
+C:\Users\medsi\Downloads\lab9\lab1\bin\Release\lab1.exe.config
+C:\Users\medsi\Downloads\lab9\lab1\bin\Release\lab1.exe
+C:\Users\medsi\Downloads\lab9\lab1\bin\Release\lab1.pdb
+C:\Users\medsi\Downloads\lab9\lab1\obj\Release\lab9.csproj.AssemblyReference.cache
+C:\Users\medsi\Downloads\lab9\lab1\obj\Release\lab9.TextEditor.resources
+C:\Users\medsi\Downloads\lab9\lab1\obj\Release\lab1.Properties.Resources.resources
+C:\Users\medsi\Downloads\lab9\lab1\obj\Release\lab9.csproj.GenerateResource.cache
+C:\Users\medsi\Downloads\lab9\lab1\obj\Release\lab9.csproj.CoreCompileInputs.cache
+C:\Users\medsi\Downloads\lab9\lab1\obj\Release\lab1.exe
+C:\Users\medsi\Downloads\lab9\lab1\obj\Release\lab1.pdb
