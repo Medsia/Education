@@ -1,0 +1,11 @@
+C:\Lessons\lab12\lab12\bin\Debug\lab12.exe.config
+C:\Lessons\lab12\lab12\bin\Debug\lab12.exe
+C:\Lessons\lab12\lab12\bin\Debug\lab12.pdb
+C:\Lessons\lab12\lab12\obj\Debug\lab12.csproj.AssemblyReference.cache
+C:\Lessons\lab12\lab12\obj\Debug\lab12.Properties.Resources.resources
+C:\Lessons\lab12\lab12\obj\Debug\lab12.csproj.GenerateResource.cache
+C:\Lessons\lab12\lab12\obj\Debug\lab12.csproj.CoreCompileInputs.cache
+C:\Lessons\lab12\lab12\obj\Debug\lab12.exe
+C:\Lessons\lab12\lab12\obj\Debug\lab12.pdb
+C:\Lessons\lab12\lab12\obj\Debug\lab12.EditorDB.resources
+C:\Lessons\lab12\lab12\obj\Debug\lab12.EditForm.resources
