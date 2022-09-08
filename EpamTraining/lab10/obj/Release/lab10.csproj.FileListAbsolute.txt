@@ -1,0 +1,9 @@
+C:\Lessons\lab10\lab10\bin\Release\lab10.exe.config
+C:\Lessons\lab10\lab10\bin\Release\lab10.exe
+C:\Lessons\lab10\lab10\bin\Release\lab10.pdb
+C:\Lessons\lab10\lab10\obj\Release\lab10.Form1.resources
+C:\Lessons\lab10\lab10\obj\Release\lab10.Properties.Resources.resources
+C:\Lessons\lab10\lab10\obj\Release\lab10.csproj.GenerateResource.cache
+C:\Lessons\lab10\lab10\obj\Release\lab10.csproj.CoreCompileInputs.cache
+C:\Lessons\lab10\lab10\obj\Release\lab10.exe
+C:\Lessons\lab10\lab10\obj\Release\lab10.pdb
